@@ -1,0 +1,31 @@
+html{
+    height: 100%;
+    widows: 100%;
+}
+
+body{
+    height: 100%;
+    width: 100%;
+}
+
+
+.background-img{
+    background-image: url(./shubham-dhage-_rZnChsIFuQ-unsplash.jpg);
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.panel-heading1{
+    background-color: transparent;
+}
+
+
+
+
+.text-center1{
+    text-align: center;
+    font-size: 80px;
+}
